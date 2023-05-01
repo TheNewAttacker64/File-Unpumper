@@ -15,3 +15,9 @@ Pumping usually used by malwares authors to  make it hard to detect their malwar
 ![pumped](pumped.PNG)
 
 as you see here there are many nullbytes 
+
+# USAGE
+
+```
+  file-unpumper.exe <path>
+```

@@ -13,3 +13,5 @@ Pumping usually used by malwares authors to  make it hard to detect their malwar
 # Example of Pumped File
 
 ![pumped](pumped.PNG)
+
+as you see here there are many nullbytes 
